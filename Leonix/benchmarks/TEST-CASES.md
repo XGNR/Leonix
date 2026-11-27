@@ -37,6 +37,7 @@ The following cases define what LEONIX intends to measure. They are not claims t
 
 - Platform: Windows 11 / Windows 10
 - Hardware reported: Intel Core i5-13400, NVIDIA GeForce RTX 3070 (12 GB VRAM reported; exact model/capacity pending verification), 16 GB RAM
+- Storage: 250 GB capacity (device type not specified)
 - Progress: User reports reaching gameplay
 - Visual issue: Shadows reportedly missing or incomplete
 - Gameplay issue: User reports that only part of the gameplay was present / accessible
