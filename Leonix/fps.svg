@@ -2,10 +2,10 @@
   <rect width="526" height="101" rx="8" fill="#000000"/>
   <g font-family="Arial, sans-serif">
     <text x="484" y="11" fill="#ffffff" font-size="10" text-anchor="end">Latest Test Result</text>
-    <text x="474" y="40" fill="#00d65a" font-size="16" font-weight="700" text-anchor="end">FPS 9</text>
+    <text x="474" y="40" fill="#00d65a" font-size="16" font-weight="700" text-anchor="end">FPS 10</text>
     <text x="484" y="59" fill="#dddddd" font-size="9" text-anchor="end">Current reported performance</text>
-    <text x="42" y="40" fill="#168cff" font-size="16" font-weight="700">FPS 21</text>
-    <text x="8" y="59" fill="#dddddd" font-size="9">21 FPS remaining to the 30 FPS target</text>
+    <text x="42" y="40" fill="#168cff" font-size="16" font-weight="700">FPS 20</text>
+    <text x="8" y="59" fill="#dddddd" font-size="9">20 FPS remaining to the 30 FPS target</text>
     <rect x="8" y="69" width="475" height="8" rx="4" fill="#242424"/>
     <rect x="8" y="69" width="142.5" height="8" rx="4" fill="#16b65a"/>
     <text x="484" y="91" fill="#dddddd" font-size="9" text-anchor="end">Target: 30 FPS</text>
