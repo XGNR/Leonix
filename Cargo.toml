@@ -3,6 +3,5 @@ name = "leonix"
 version = "0.1.0"
 edition = "2021"
 description = "LEONIX — an independent system diagnostics and performance research toolkit"
-license = "MIT"
 
 [dependencies]
