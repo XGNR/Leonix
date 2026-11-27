@@ -31,7 +31,7 @@ Profiles describe the environment for a test. They do not change the game or sys
 | GPU | NVIDIA GeForce RTX 3070 |
 | GPU VRAM | 12 GB (reported by user; exact model and capacity not independently verified) |
 | Installed RAM | 16 GB |
-| Storage device | Not recorded |
+| Storage device | 250 GB capacity (device type not specified) |
 | GPU driver | Not recorded |
 | Game build | Not recorded |
 | Display resolution / refresh rate | Not recorded |
