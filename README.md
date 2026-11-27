@@ -5,11 +5,13 @@
   <em>Born in Iran. Powered by XGNR. Driven by innovation.</em>
 </p>
 
-<p align="center">
-  <a href="https://Zunoplay.ir">
-    <img src="https://img.shields.io/badge/WEBSITE-orange?style=for-the-badge" alt="WEBSITE" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td bgcolor="#f07832" align="center">
+      <a href="https://Zunoplay.ir"><strong><font color="#ffffff">WEBSITE</font></strong></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
