@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Research%20%26%20Development-orange?style=for-the-badge" alt="Project status: Research and Development" />
   <a href="https://Zunoplay.ir">
-    <img src="https://img.shields.io/badge/Website-Zunoplay.ir-0A66C2?style=for-the-badge" alt="Visit Zunoplay.ir" />
+    <img src="https://img.shields.io/badge/WEBSITE-orange?style=for-the-badge" alt="WEBSITE" />
   </a>
 </p>
 
