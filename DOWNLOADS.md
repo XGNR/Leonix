@@ -22,25 +22,7 @@ Developed by **XGNR**
 
 ## 🚨 🔴 COMING SOON 🔴 🚨
 File : 
-P1 : 
-P2 : 
-P3 : 
-p4 : 
-P5 : 
-P6 : 
-P7 : 
-P8 : 
-P9 : 
-P10 : 
-P11 : 
-P12 : 
-P13 : 
-P15 : 
-P16 : 
-P17 : 
-P18 : 
-P19 : 
-P20 : 
+
 
 
 ---
@@ -72,7 +54,7 @@ Installation instructions will be published when the first release is ready.
 
 | Version         | Release Date | Download |
 | --------------- | ------------ | -------- |
-| 1.0 |           |  December 1  | Coming Soon!!
+| 1.0 |     |  December 1  | Coming Soon!!
 
 ---
 
