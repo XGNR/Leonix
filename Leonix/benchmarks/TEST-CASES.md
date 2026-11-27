@@ -35,12 +35,13 @@ The following cases define what LEONIX intends to measure. They are not claims t
 ## OBS-001 — Preliminary Gameplay Observation
 **Status:** User-reported observation recorded; not independently verified.
 
+- Platform: Windows 11 / Windows 10
 - Hardware reported: Intel Core i5-13400, NVIDIA GeForce RTX 3070 (12 GB VRAM reported; exact model/capacity pending verification), 16 GB RAM
 - Progress: User reports reaching gameplay
 - Visual issue: Shadows reportedly missing or incomplete
 - Gameplay issue: User reports that only part of the gameplay was present / accessible
 - Performance note: A 26 FPS figure or shortfall was mentioned; its exact meaning, measurement method, and context are not yet known
-- Date, game build, platform, resolution, graphics settings, monitoring tool, and evidence: Not recorded
+- Date, game build, resolution, graphics settings, monitoring tool, and evidence: Not recorded
 
 These notes describe one user's reported test session. They do not establish a general game defect or verified performance result.
 
