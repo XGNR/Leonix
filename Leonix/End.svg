@@ -2,7 +2,7 @@
   <rect width="526" height="101" rx="8" fill="#000000"/>
   <g font-family="Arial, sans-serif">
     <text x="484" y="11" fill="#ffffff" font-size="10" text-anchor="end">Project Completion Assessment</text>
-    <text x="474" y="40" fill="#00d65a" font-size="16" font-weight="700" text-anchor="end">18 / 100</text>
+    <text x="474" y="40" fill="#00d65a" font-size="16" font-weight="700" text-anchor="end">18%</text>
     <text x="484" y="59" fill="#dddddd" font-size="9" text-anchor="end">Estimated project completion</text>
     <text x="42" y="40" fill="#168cff" font-size="16" font-weight="700">82%</text>
     <text x="8" y="59" fill="#dddddd" font-size="9">Remaining to full project completion</text>
