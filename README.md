@@ -17,51 +17,62 @@
 
 ## About LEONIX
 
-**LEONIX** is an independent game-technology research project by **XGNR**, inspired by modern open-world games. The project explores graphics, performance analysis, rendering quality, and software optimization.
+**LEONIX** is an independent game-technology research project by **XGNR**. It explores graphics technology, performance analysis, rendering research, and practical software tools using original code and authorized test materials.
 
-Our goal is to learn, experiment, document results, and develop original tools and technology using software and test assets we are authorized to use.
+## Current features
 
-## Project vision
+The first Rust-based command-line toolkit is now in the repository:
 
-We are investigating ways to improve the technical foundations of an open-world-style gaming experience.
+- **System report:** operating system, CPU architecture, logical processor count, and working directory.
+- **CPU benchmark:** a repeatable integer workload with elapsed time, operation rate, and checksum.
+- **Memory benchmark:** a bounded memory fill-and-scan workload.
+- **CLI commands:** simple info, bench, and help commands.
+- **Automated checks:** integration tests and a GitHub Actions workflow.
 
-### 🎮 Performance research
-- Study frame-rate stability and frame pacing
-- Measure and analyze CPU, memory, and graphics performance
-- Investigate stuttering and loading behavior
-- Explore 30 FPS and 45 FPS as experimental research targets
+The current standard-library-only build does not report physical RAM usage, GPU details, or in-game FPS. Benchmark results are local micro-benchmark measurements, not predictions of game performance.
 
-### 🌅 Graphics research
-- Explore lighting, shadows, and reflections
-- Investigate rendering quality and visual consistency
-- Study texture handling and graphics optimization
+## Quick start
 
-### ⚙️ Optimization research
-- Examine memory-management techniques
-- Analyze loading performance
-- Build reliable performance monitoring and benchmark workflows
+Install the stable Rust toolchain, then run:
 
-> **Note:** These are research goals, not verified product features or guaranteed performance results. Results will be documented as testing progresses.
+```sh
+cargo run --release -- info
+cargo run --release -- bench
+cargo run --release -- bench 5000000
+cargo test --all-targets
+```
 
-## Development status
+See [Command Guide](docs/COMMANDS.md) for usage and benchmark details.
 
-<kbd>RESEARCH & DEVELOPMENT</kbd>
+## Project structure
 
-LEONIX is currently in an early development and research phase. Features, compatibility, and performance targets remain experimental until they have been implemented and tested.
-
-## Project documentation
-
-| Document | Description |
+| Path | Purpose |
 | --- | --- |
-| [Changelog](CHANGELOG.md) | Development notes, progress, and planned improvements |
-| [Downloads](DOWNLOADS.md) | Release information and official downloads when available |
+| src/core/ | Command routing and application entry logic |
+| src/config/ | Safe benchmark defaults and input validation |
+| src/monitor/ | System and runtime information |
+| src/performance/ | Benchmark orchestration and reporting |
+| src/benchmarks/ | CPU and memory workload implementations |
+| src/tools/ | Formatting and output helpers |
+| tests/ | Command-line integration tests |
+| .github/workflows/ | Automated build and quality checks |
+| docs/ | Usage and technical documentation |
+
+## Research roadmap
+
+- Expand system diagnostics with reliable, platform-specific data sources.
+- Add repeatable benchmark scenarios and machine-readable reports.
+- Explore graphics and rendering experiments with original test assets.
+- Measure frame pacing and loading behavior in authorized test applications.
+
+Planned work will be marked clearly until implemented and tested.
 
 ## Principles
 
-- **Independent development:** LEONIX is created by XGNR and is not an official game port or an endorsed product.
-- **Responsible testing:** Testing uses original code and assets, or materials that we are authorized to use.
-- **Honest reporting:** Experimental goals are clearly distinguished from verified results.
-- **Continuous learning:** Research, documentation, and reproducible testing guide development.
+- **Independent development:** LEONIX is created by XGNR and is not an official game port or endorsed product.
+- **Responsible testing:** Use original code and assets, or materials that we are authorized to use.
+- **Honest reporting:** Separate experimental goals from verified results.
+- **Reproducibility:** Document hardware, software, and conditions when reporting benchmark results.
 
 ## Disclaimer
 
