@@ -22,9 +22,28 @@ Profiles describe the environment for a test. They do not change the game or sys
 | V-sync / frame cap | Not recorded |
 | Monitoring tool | Not recorded |
 
+## Preliminary user-reported profile — LEONIX-HW-001
+
+| Setting | Reported value |
+| --- | --- |
+| CPU | Intel Core i5-13400 |
+| GPU | NVIDIA GeForce RTX 3070 |
+| GPU VRAM | 12 GB (reported by user; exact model and capacity not independently verified) |
+| Installed RAM | 16 GB |
+| Platform / operating system | Not recorded |
+| Storage device | Not recorded |
+| GPU driver | Not recorded |
+| Game build | Not recorded |
+| Display resolution / refresh rate | Not recorded |
+| Graphics settings | Not recorded |
+| Monitoring tool | Not recorded |
+
+Associated observation: user reports reaching gameplay, with shadows missing or incomplete and only part of gameplay present / accessible. A 26 FPS figure or shortfall was also mentioned, but its meaning and measurement context are unspecified. See the FPS and frame-time log.
+
 ## Profile rules
 
 - Create one profile per distinct test machine or materially different configuration.
 - Do not assume a setting exists on every platform.
 - Use **Not available** when a setting is unsupported and **Not recorded** when it has not been checked.
 - Link each benchmark result to the profile used.
+- Clearly label user-reported specifications that have not been independently verified.
