@@ -19,6 +19,8 @@ LEONIX is a structured research hub for documenting observable Grand Theft Auto 
 | Stability | Crashes, freezes, visual defects, and reproducible problems |
 | Configuration | Hardware profiles, software versions, and test environment details |
 
+[![SYSTEM SPECIFICATIONS](https://img.shields.io/badge/VIEW-SYSTEM%20SPECIFICATIONS-2563eb?style=for-the-badge)](config/README.md)
+
 ## Repository map
 
 - `src/` — research source notes, evidence references, and data definitions
