@@ -54,7 +54,7 @@ Installation instructions will be published when the first release is ready.
 
 | Version         | Release Date | Download |
 | --------------- | ------------ | -------- |
-| 1.0             | December 1   |          |
+|                 |              |          |
 
 ---
 
