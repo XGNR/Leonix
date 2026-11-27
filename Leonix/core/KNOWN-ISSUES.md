@@ -4,7 +4,21 @@ Only documented, reproducible, or clearly attributed issues belong here.
 
 | Issue ID | Area | Summary | Reproduction status | Evidence | Status |
 | --- | --- | --- | --- | --- | --- |
-| — | — | No verified issues recorded | — | — | Open for reports |
+| LEONIX-ISSUE-001 | Graphics | Shadows appear black (user-reported) | Not recorded | Not provided | New |
+
+## LEONIX-ISSUE-001 — Black Shadows
+
+- **First observed:** Not recorded
+- **Platform / game build:** Windows 10/11 — 3095 XGNR : 1.0
+- **Hardware profile:** Intel i5-13400 / RTX 3070 / 16GB RAM
+- **Affected area:** Graphics
+- **Steps to reproduce:** Not recorded
+- **Expected result:** Shadows should render normally.
+- **Observed result:** Shadows appear black.
+- **Frequency:** Not recorded
+- **Evidence reference:** Not provided
+- **Possible cause:** Unconfirmed
+- **Status:** New
 
 ## Issue submission template
 
