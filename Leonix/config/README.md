@@ -32,13 +32,13 @@ Profiles describe the environment for a test. They do not change the game or sys
 | GPU VRAM | 12 GB (reported by user; exact model and capacity not independently verified) |
 | Installed RAM | 16 GB |
 | Storage device | 250 GB capacity (device type not specified) |
-| GPU driver | Not recorded |
-| Game build | Not recorded |
-| Display resolution / refresh rate | Not recorded |
-| Graphics settings | Not recorded |
-| Monitoring tool | Not recorded |
+| GPU driver | NVIDIA (driver version not specified) |
+| Game build | 3095 XGNR : 1.0 (as reported) |
+| Display resolution / refresh rate | 1920 × 1080 at 165 Hz |
+| Graphics settings / observations | Overall visual quality reported as good; shadows turn black and motion/animation graphics have issues. Exact graphics preset and individual settings not recorded. |
+| Monitoring tool | Windows Task Manager |
 
-Associated observation: user reports reaching gameplay, with shadows missing or incomplete and only part of gameplay present / accessible. A 26 FPS figure or shortfall was also mentioned, but its meaning and measurement context are unspecified. See the FPS and frame-time log.
+Associated observation: user reports reaching gameplay, with some gameplay content incomplete or unavailable. A 26 FPS figure or shortfall was also mentioned, but its meaning and measurement context are unspecified. See the FPS and frame-time log.
 
 ## Profile rules
 
