@@ -36,13 +36,17 @@ The following cases define what LEONIX intends to measure. They are not claims t
 **Status:** User-reported observation recorded; not independently verified.
 
 - Platform: Windows 11 / Windows 10
+- Game build: 3095 XGNR : 1.0 (as reported)
 - Hardware reported: Intel Core i5-13400, NVIDIA GeForce RTX 3070 (12 GB VRAM reported; exact model/capacity pending verification), 16 GB RAM
 - Storage: 250 GB capacity (device type not specified)
+- Display: 1920 × 1080 at 165 Hz
+- Monitoring tool: Windows Task Manager
 - Progress: User reports reaching gameplay
-- Visual issue: Shadows reportedly missing or incomplete
+- Graphics observations: Overall visual quality reported as good; shadows turn black and motion/animation graphics have issues. Exact graphics preset and individual settings are not recorded.
 - Gameplay issue: User reports that only part of the gameplay was present / accessible
 - Performance note: A 26 FPS figure or shortfall was mentioned; its exact meaning, measurement method, and context are not yet known
-- Date, game build, resolution, graphics settings, monitoring tool, and evidence: Not recorded
+- GPU driver: NVIDIA; driver version not specified
+- Date, capture duration, and evidence: Not recorded / not provided
 
 These notes describe one user's reported test session. They do not establish a general game defect or verified performance result.
 
