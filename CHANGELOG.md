@@ -6,6 +6,15 @@ A record of development progress, technical updates, improvements, and future de
 
 ---
 
+## Latest Test Update — Gameplay Performance
+
+- Reached **8 FPS** during the reported in-game test.
+- The reported remaining gap is **22 FPS** to a 30 FPS reference target (8 + 22 = 30).
+- This supersedes the earlier 26 FPS shortfall note.
+- Result is user-reported and has not been independently verified; capture duration, scene, and measurement evidence have not yet been recorded.
+
+---
+
 ## [0.1.0] — Initial Development
 
 ### Development Progress
