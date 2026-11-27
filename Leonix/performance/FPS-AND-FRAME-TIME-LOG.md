@@ -35,16 +35,17 @@ Use one entry per capture session.
 - Resolution / refresh rate: 1920 × 1080 at 165 Hz
 - Graphics observations: Overall visual quality reported as good; shadows turn black and motion/animation graphics have issues. Exact graphics preset and individual settings not recorded.
 - Monitoring tool: Windows Task Manager
-- Average FPS: Not measured / not confirmed
-- FPS note: User mentioned a 26 FPS shortfall or figure; the exact meaning and measurement context were not specified
+- Reported in-game FPS: 8 FPS
+- Remaining gap: 22 FPS to a 30 FPS reference target (based on the user's report)
+- 1% low FPS / frame-time: Not measured
 - Gameplay observations: User reported that only part of the gameplay was present / accessible
 - Capture duration and evidence reference: Not recorded / not provided
 - Result status: Captured — user-reported observations; not independently verified
 
-This entry records the user's general report, not a controlled benchmark. It must not be presented as a verified average-FPS result.
+This entry records the user's report. The 8 FPS figure is not an independently verified average, and the 22 FPS gap is relative to a 30 FPS reference target.
 
 ## Published results
 
-No verified measurements have been published yet.
+No independently verified measurements have been published yet.
 
 **Interpretation note:** FPS and frame-time results are meaningful only alongside the capture method, scene, settings, and hardware context. Do not compare unrelated captures as if they were controlled tests.
