@@ -26,11 +26,11 @@ Profiles describe the environment for a test. They do not change the game or sys
 
 | Setting | Reported value |
 | --- | --- |
+| Platform / operating system | Windows 11 / Windows 10 |
 | CPU | Intel Core i5-13400 |
 | GPU | NVIDIA GeForce RTX 3070 |
 | GPU VRAM | 12 GB (reported by user; exact model and capacity not independently verified) |
 | Installed RAM | 16 GB |
-| Platform / operating system | Not recorded |
 | Storage device | Not recorded |
 | GPU driver | Not recorded |
 | Game build | Not recorded |
