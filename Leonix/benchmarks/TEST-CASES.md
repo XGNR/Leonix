@@ -42,13 +42,14 @@ The following cases define what LEONIX intends to measure. They are not claims t
 - Display: 1920 × 1080 at 165 Hz
 - Monitoring tool: Windows Task Manager
 - Progress: User reports reaching gameplay
+- Reported in-game performance: 8 FPS
+- Remaining gap: 22 FPS to a 30 FPS reference target (based on the user's report)
 - Graphics observations: Overall visual quality reported as good; shadows turn black and motion/animation graphics have issues. Exact graphics preset and individual settings are not recorded.
 - Gameplay issue: User reports that only part of the gameplay was present / accessible
-- Performance note: A 26 FPS figure or shortfall was mentioned; its exact meaning, measurement method, and context are not yet known
 - GPU driver: NVIDIA; driver version not specified
 - Date, capture duration, and evidence: Not recorded / not provided
 
-These notes describe one user's reported test session. They do not establish a general game defect or verified performance result.
+These notes describe one user's reported test session. They do not establish a general game defect or independently verified performance result.
 
 ## Completion status
 
