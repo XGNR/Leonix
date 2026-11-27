@@ -30,7 +30,7 @@ Use one entry per capture session.
 - Date: Not recorded
 - Platform: Windows 11 / Windows 10
 - Game build: Not recorded
-- Hardware profile: Intel Core i5-13400; NVIDIA GeForce RTX 3070 (12 GB VRAM reported by user; exact GPU model and VRAM capacity not independently verified); 16 GB RAM
+- Hardware profile: Intel Core i5-13400; NVIDIA GeForce RTX 3070 (12 GB VRAM reported by user; exact GPU model and VRAM capacity not independently verified); 16 GB RAM; 250 GB storage capacity (device type not specified)
 - Scene / route: Reached gameplay
 - Resolution: Not recorded
 - Graphics preset: Not recorded
