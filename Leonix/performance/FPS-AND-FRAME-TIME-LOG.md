@@ -28,7 +28,7 @@ Use one entry per capture session.
 
 - Record ID: LEONIX-OBS-001
 - Date: Not recorded
-- Platform: Not recorded
+- Platform: Windows 11 / Windows 10
 - Game build: Not recorded
 - Hardware profile: Intel Core i5-13400; NVIDIA GeForce RTX 3070 (12 GB VRAM reported by user; exact GPU model and VRAM capacity not independently verified); 16 GB RAM
 - Scene / route: Reached gameplay
